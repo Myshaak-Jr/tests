@@ -4,6 +4,7 @@ from typing import Tuple
 Color = Tuple[int, int, int]
 
 class Tractor:
+    color: Color
     def __init__(self, color: Color) -> None:
         self.color = color
 
