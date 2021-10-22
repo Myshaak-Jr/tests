@@ -1,2 +1,2 @@
 # tests
-Test repository
+Ropsitory for testing. 
